@@ -4,23 +4,63 @@
             "title": "Farewell Programme",
             "data": [
                 {
-                    "src": "../assets/Farewell/DSC_0378.JPG",
+                    "src": "../assets/gallery22/farewell/DSC_0378.JPG",
                     "alt": "farewell-party"
                 },
                 {
-                    "src": "../assets/Farewell/DSC_0387.JPG",
+                    "src": "../assets/gallery22/farewell/DSC_0381.JPG",
                     "alt": "farewell-party"
                 },
                 {
-                    "src": "../assets/Farewell/DSC_0398.JPG",
+                    "src": "../assets/gallery22/farewell/DSC_0385.JPG",
                     "alt": "farewell-party"
                 },
                 {
-                    "src": "../assets/Farewell/DSC_0402.JPG",
+                    "src": "../assets/gallery22/farewell/DSC_0389.JPG",
                     "alt":"farewell-party"
                 },
                 {
-                    "src": "../assets/Farewell/DSC_0438.JPG",
+                    "src": "../assets/gallery22/farewell/DSC_0398.JPG",
+                    "alt": "farewell-party"
+                },
+                {
+                    "src": "../assets/gallery22/farewell/DSC_0402.JPG",
+                    "alt": "farewell-party"
+                },
+                {
+                    "src": "../assets/gallery22/farewell/DSC_0406.JPG",
+                    "alt": "farewell-party"
+                },
+                {
+                    "src": "../assets/gallery22/farewell/DSC_0410.JPG",
+                    "alt": "farewell-party"
+                },
+                {
+                    "src": "../assets/gallery22/farewell/DSC_0413.JPG",
+                    "alt":"farewell-party"
+                },
+                {
+                    "src": "../assets/gallery22/farewell/DSC_0416.JPG",
+                    "alt": "farewell-party"
+                },
+                {
+                    "src": "../assets/gallery22/farewell/DSC_0432.JPG",
+                    "alt": "farewell-party"
+                },
+                {
+                    "src": "../assets/gallery22/farewell/DSC_0438.JPG",
+                    "alt": "farewell-party"
+                },
+                {
+                    "src": "../assets/gallery22/farewell/DSC_0463.JPG",
+                    "alt":"farewell-party"
+                },
+                {
+                    "src": "../assets/gallery22/farewell/DSC_0486.JPG",
+                    "alt": "farewell-party"
+                },
+                {
+                    "src": "../assets/gallery22/farewell/DSC_0568.JPG",
                     "alt": "farewell-party"
                 }
             ]
@@ -29,23 +69,31 @@
             "title": "Republic Day",
             "data": [
                 {
-                    "src": "../assets/Republic Day/DSC_0094.JPG",
+                    "src": "../assets/gallery22/Republic Day/DSC_0094.JPG",
                     "alt": "republic-day"
                 },
                 {
-                    "src": "../assets/Republic Day/DSC_0095.JPG",
+                    "src": "../assets/gallery22/Republic Day/DSC_0095.JPG",
                     "alt": "republic-day"
                 },
                 {
-                    "src": "../assets/Republic Day/DSC_0100.JPG",
+                    "src": "../assets/gallery22/Republic Day/DSC_0100.JPG",
                     "alt": "republic-day"
                 },
                 {
-                    "src": "../assets/Republic Day/DSC_0102.JPG",
+                    "src": "../assets/gallery22/Republic Day/DSC_0102.JPG",
                     "alt": "republic-day"
                 },
                 {
-                    "src": "../assets/Republic Day/DSC_0104.JPG",
+                    "src": "../assets/gallery22/Republic Day/DSC_0104.JPG",
+                    "alt": "republic-day"
+                },
+                {
+                    "src": "../assets/gallery22/Republic Day/DSC_0159.JPG",
+                    "alt": "republic-day"
+                },
+                {
+                    "src": "../assets/gallery22/Republic Day/DSC_0184.JPG",
                     "alt":"republic-day"
                 }
             ]
@@ -54,20 +102,489 @@
             "title": "Intra-Hall Cricket",
             "data": [
                 {
-                    "src": "../assets/Intra-Hall Cricket/DSC_0002.JPG",
+                    "src": "../assets/gallery22/Intra-Hall Cricket/DSC_0002.JPG",
                     "alt": "intrahall-cricket"
                 },
                 {
-                    "src": "../assets/Intra-Hall Cricket/DSC_0065.JPG",
+                    "src": "../assets/gallery22/Intra-Hall Cricket/DSC_0065.JPG",
                     "alt": "intrahall-cricket"
                 },
                 {
-                    "src": "../assets/Intra-Hall Cricket/DSC_0203.JPG",
+                    "src": "../assets/gallery22/Intra-Hall Cricket/DSC_0203.JPG",
                     "alt": "intrahall-cricket"
                 },
                 {
-                    "src": "../assets/Intra-Hall Cricket/DSC_0665.JPG",
+                    "src": "../assets/gallery22/Intra-Hall Cricket/DSC_0218.JPG",
                     "alt": "intrahall-cricket"
+                },
+                {
+                    "src": "../assets/gallery22/Intra-Hall Cricket/DSC_0266.JPG",
+                    "alt": "intrahall-cricket"
+                },
+                {
+                    "src": "../assets/gallery22/Intra-Hall Cricket/DSC_0273.JPG",
+                    "alt": "intrahall-cricket"
+                },
+                {
+                    "src": "../assets/gallery22/Intra-Hall Cricket/DSC_0368.JPG",
+                    "alt": "intrahall-cricket"
+                },
+                {
+                    "src": "../assets/gallery22/Intra-Hall Cricket/DSC_0665.JPG",
+                    "alt": "intrahall-cricket"
+                },
+                {
+                    "src": "../assets/gallery22/Intra-Hall Cricket/DSC_0761.JPG",
+                    "alt": "intrahall-cricket"
+                },
+                {
+                    "src": "../assets/gallery22/Intra-Hall Cricket/DSC_0762.JPG",
+                    "alt": "intrahall-cricket"
+                }
+            ]
+        }
+    },
+    "2023": {
+        "illu":{
+            "title": "Illumination",
+            "data": [
+                {
+                    "src": "../assets/gallery23/illu/20221020_024951.JPG",
+                    "alt": "illumination"
+                },
+                {
+                    "src": "../assets/gallery23/illu/DSC_4907.JPG",
+                    "alt": "illumination"
+                },
+                {
+                    "src": "../assets/gallery23/illu/DSC_4913.JPG",
+                    "alt": "illumination"
+                },
+                {
+                    "src": "../assets/gallery23/illu/IMG_20221019_020652.JPG",
+                    "alt": "illumination"
+                },
+                {
+                    "src": "../assets/gallery23/illu/IMG_20221024_151441.JPG",
+                    "alt": "illumination"
+                },
+                {
+                    "src": "../assets/gallery23/illu/IMG-20221024-WA0017.JPG",
+                    "alt": "illumination"
+                },
+                {
+                    "src": "../assets/gallery23/illu/IMG-20221025-WA0098.JPG",
+                    "alt":"illumination"
+                },
+                {
+                    "src": "../assets/gallery23/illu/sketch1665758804522.JPG",
+                    "alt": "illumination"
+                }
+            ]
+        },
+        "republic": {
+            "title": "Republic Day",
+            "data": [
+                {
+                    "src": "../assets/gallery23/Republic Day/DSC_6044.JPG",
+                    "alt": "republic-day"
+                },
+                {
+                    "src": "../assets/gallery23/Republic Day/DSC_6058.JPG",
+                    "alt": "republic-day"
+                },
+                {
+                    "src": "../assets/gallery23/Republic Day/DSC_6066.JPG",
+                    "alt": "republic-day"
+                },
+                {
+                    "src": "../assets/gallery23/Republic Day/DSC_6072.JPG",
+                    "alt": "republic-day"
+                },
+                {
+                    "src": "../assets/gallery23/Republic Day/DSC_6075.JPG",
+                    "alt":"republic-day"
+                },
+                {
+                    "src": "../assets/gallery23/Republic Day/DSC_6077.JPG",
+                    "alt": "republic-day"
+                },
+                {
+                    "src": "../assets/gallery23/Republic Day/DSC_6081.JPG",
+                    "alt": "republic-day"
+                },
+                {
+                    "src": "../assets/gallery23/Republic Day/DSC_6084.JPG",
+                    "alt": "republic-day"
+                },
+                {
+                    "src": "../assets/gallery23/Republic Day/DSC_6088.JPG",
+                    "alt": "republic-day"
+                },
+                {
+                    "src": "../assets/gallery23/Republic Day/DSC_6089.JPG",
+                    "alt":"republic-day"
+                }
+            ]
+        },
+        "cricket": {
+            "title": "Intra-Hall Cricket",
+            "data": [
+                {
+                    "src": "../assets/gallery23/Intra-Hall Cricket/DSC_5125.JPG",
+                    "alt": "intrahall-cricket"
+                },
+                {
+                    "src": "../assets/gallery23/Intra-Hall Cricket/DSC_5169.JPG",
+                    "alt": "intrahall-cricket"
+                },
+                {
+                    "src": "../assets/gallery23/Intra-Hall Cricket/DSC_5257.JPG",
+                    "alt": "intrahall-cricket"
+                },
+                {
+                    "src": "../assets/gallery23/Intra-Hall Cricket/DSC_5271.JPG",
+                    "alt": "intrahall-cricket"
+                },
+                {
+                    "src": "../assets/gallery23/Intra-Hall Cricket/DSC_5274.JPG",
+                    "alt": "intrahall-cricket"
+                },
+                {
+                    "src": "../assets/gallery23/Intra-Hall Cricket/DSC_5337.JPG",
+                    "alt": "intrahall-cricket"
+                },
+                {
+                    "src": "../assets/gallery23/Intra-Hall Cricket/DSC_5346.JPG",
+                    "alt": "intrahall-cricket"
+                },
+                {
+                    "src": "../assets/gallery23/Intra-Hall Cricket/DSC_5361.JPG",
+                    "alt": "intrahall-cricket"
+                },
+                {
+                    "src": "../assets/gallery23/Intra-Hall Cricket/DSC_5363.JPG",
+                    "alt": "intrahall-cricket"
+                },
+                {
+                    "src": "../assets/gallery23/Intra-Hall Cricket/DSC_5371.JPG",
+                    "alt": "intrahall-cricket"
+                }
+            ]
+        },
+        "gc-cricket": {
+            "title": "GC Cricket",
+            "data": [
+                {
+                    "src": "../assets/gallery23/GC Cricket/DSC_6124.JPG",
+                    "alt": "gc-cricket"
+                },
+                {
+                    "src": "../assets/gallery23/GC Cricket/DSC_6159.JPG",
+                    "alt": "gc-cricket"
+                },
+                {
+                    "src": "../assets/gallery23/GC Cricket/DSC_6249.JPG",
+                    "alt": "gc-cricket"
+                },
+                {
+                    "src": "../assets/gallery23/GC Cricket/DSC_6500.JPG",
+                    "alt": "gc-cricket"
+                },
+                {
+                    "src": "../assets/gallery23/GC Cricket/DSC_6538.JPG",
+                    "alt": "gc-cricket"
+                },
+                {
+                    "src": "../assets/gallery23/GC Cricket/DSC_6626.JPG",
+                    "alt": "gc-cricket"
+                },
+                {
+                    "src": "../assets/gallery23/GC Cricket/DSC_6712.JPG",
+                    "alt": "gc-cricket"
+                },
+                {
+                    "src": "../assets/gallery23/GC Cricket/DSC_6715.JPG",
+                    "alt": "gc-cricket"
+                },
+                {
+                    "src": "../assets/gallery23/GC Cricket/DSC_7045.JPG",
+                    "alt": "gc-cricket"
+                },
+                {
+                    "src": "../assets/gallery23/GC Cricket/DSC_7061.JPG",
+                    "alt": "gc-cricket"
+                }
+            ]
+        },
+        "puja": {
+            "title": "Saraswati Puja",
+            "data": [
+                {
+                    "src": "../assets/gallery23/Saraswati Puja/DSC_6474.JPG",
+                    "alt": "saraswati-puja"
+                },
+                {
+                    "src": "../assets/gallery23/Saraswati Puja/DSC_6475.JPG",
+                    "alt": "saraswati-puja"
+                },
+                {
+                    "src": "../assets/gallery23/Saraswati Puja/DSC_6476.JPG",
+                    "alt": "saraswati-puja"
+                },
+                {
+                    "src": "../assets/gallery23/Saraswati Puja/DSC_6478.JPG",
+                    "alt": "saraswati-puja"
+                },
+                {
+                    "src": "../assets/gallery23/Saraswati Puja/DSC_6480.JPG",
+                    "alt": "saraswati-puja"
+                },
+                {
+                    "src": "../assets/gallery23/Saraswati Puja/DSC_6492.JPG",
+                    "alt": "saraswati-puja"
+                },
+                {
+                    "src": "../assets/gallery23/Saraswati Puja/DSC_6493.JPG",
+                    "alt": "saraswati-puja"
+                }
+            ]
+        }
+    },
+    "2024": {
+        "independence":{
+            "title": "Independence Day",
+            "data": [
+                {
+                    "src": "../assets/gallery24/Independence Day/IMG_8335.JPG",
+                    "alt": "independence-day"
+                },
+                {
+                    "src": "../assets/gallery24/Independence Day/IMG_8339.JPG",
+                    "alt": "independence-day"
+                },
+                {
+                    "src": "../assets/gallery24/Independence Day/IMG_8340.JPG",
+                    "alt": "independence-day"
+                },
+                {
+                    "src": "../assets/gallery24/Independence Day/IMG_8352.JPG",
+                    "alt": "independence-day"
+                },
+                {
+                    "src": "../assets/gallery24/Independence Day/IMG_8357.JPG",
+                    "alt": "independence-day"
+                },
+                {
+                    "src": "../assets/gallery24/Independence Day/IMG_8363.JPG",
+                    "alt": "independence-day"
+                },
+                {
+                    "src": "../assets/gallery24/Independence Day/IMG_8366.JPG",
+                    "alt": "independence-day"
+                },
+                {
+                    "src": "../assets/gallery24/Independence Day/IMG_8368.JPG",
+                    "alt": "independence-day"
+                },
+                {
+                    "src": "../assets/gallery24/Independence Day/IMG_8374.JPG",
+                    "alt": "independence-day"
+                },
+                {
+                    "src": "../assets/gallery24/Independence Day/IMG_8395.JPG",
+                    "alt": "independence-day"
+                }
+            ]
+        },
+        "cricket": {
+            "title": "Intra-Hall Cricket",
+            "data": [
+                {
+                    "src": "../assets/gallery24/Intra-Hall Cricket/IMG20231008173517.JPG",
+                    "alt": "intrahall-cricket"
+                },
+                {
+                    "src": "../assets/gallery24/Intra-Hall Cricket/IMG20231008135538.JPG",
+                    "alt": "intrahall-cricket"
+                },
+                {
+                    "src": "../assets/gallery24/Intra-Hall Cricket/IMG_20231008_152244015.JPG",
+                    "alt": "intrahall-cricket"
+                },
+                {
+                    "src": "../assets/gallery24/Intra-Hall Cricket/IMG_20231008_152231050.JPG",
+                    "alt": "intrahall-cricket"
+                },
+                {
+                    "src": "../assets/gallery24/Intra-Hall Cricket/IMG_20231007_124640151.MP.JPG",
+                    "alt": "intrahall-cricket"
+                },
+                {
+                    "src": "../assets/gallery24/Intra-Hall Cricket/ca0bd9e9-acc3-4d78-8d9f-31732af0e041.JPG",
+                    "alt": "intrahall-cricket"
+                },
+                {
+                    "src": "../assets/gallery24/Intra-Hall Cricket/c433b312-6f26-49e3-9b03-0d2b263e65f1.JPG",
+                    "alt": "intrahall-cricket"
+                },
+                {
+                    "src": "../assets/gallery24/Intra-Hall Cricket/bfb25674-f289-4d6f-ad34-752756089e0c.JPG",
+                    "alt": "intrahall-cricket"
+                },
+                {
+                    "src": "../assets/gallery24/Intra-Hall Cricket/98c20867-b690-4a5b-826d-afc8aa597b1b.JPG",
+                    "alt": "intrahall-cricket"
+                },
+                {
+                    "src": "../assets/gallery24/Intra-Hall Cricket/7fab194a-ce10-46bb-b561-be7e114201d9.JPG",
+                    "alt": "intrahall-cricket"
+                }
+            ]
+        }
+    },
+    "2025": {
+        "illu":{
+            "title": "Illumination",
+            "data": [
+                {
+                    "src": "../assets/gallery25/illu/design.JPG",
+                    "alt": "illumination"
+                },
+                {
+                    "src": "../assets/gallery25/illu/chatayi.JPG",
+                    "alt": "illumination"
+                },
+                {
+                    "src": "../assets/gallery25/illu/diyas.JPG",
+                    "alt": "illumination"
+                },
+                {
+                    "src": "../assets/gallery25/illu/blackpaint.JPG",
+                    "alt": "illumination"
+                },
+                {
+                    "src": "../assets/gallery25/illu/mudpaint.JPG",
+                    "alt": "illumination"
+                },
+                {
+                    "src": "../assets/gallery25/illu/illu.JPG",
+                    "alt": "illumination"
+                },
+                {
+                    "src": "../assets/gallery25/illu/rangoli.JPG",
+                    "alt": "illumination"
+                }
+            ]
+        },
+        "independence":{
+            "title": "Independence Day",
+            "data": [
+                {
+                    "src": "../assets/gallery25/Independence Day/1.JPEG",
+                    "alt": "independence-day"
+                },
+                {
+                    "src": "../assets/gallery25/Independence Day/2.JPEG",
+                    "alt": "independence-day"
+                },
+                {
+                    "src": "../assets/gallery25/Independence Day/3.JPEG",
+                    "alt": "independence-day"
+                },
+                {
+                    "src": "../assets/gallery25/Independence Day/4.JPEG",
+                    "alt": "independence-day"
+                },
+                {
+                    "src": "../assets/gallery25/Independence Day/5.JPEG",
+                    "alt": "independence-day"
+                },
+                {
+                    "src": "../assets/gallery25/Independence Day/6.JPEG",
+                    "alt": "independence-day"
+                },
+                {
+                    "src": "../assets/gallery25/Independence Day/7.JPEG",
+                    "alt": "independence-day"
+                }
+            ]
+        },
+        "cricket": {
+            "title": "Intra-Hall Cricket",
+            "data": [
+                {
+                    "src": "../assets/gallery25/Intra-Hall Cricket/IMG_5313.JPG",
+                    "alt": "intrahall-cricket"
+                },
+                {
+                    "src": "../assets/gallery25/Intra-Hall Cricket/IMG_5322.JPG",
+                    "alt": "intrahall-cricket"
+                },
+                {
+                    "src": "../assets/gallery25/Intra-Hall Cricket/IMG_5325.JPG",
+                    "alt": "intrahall-cricket"
+                },
+                {
+                    "src": "../assets/gallery25/Intra-Hall Cricket/IMG_5328.JPG",
+                    "alt": "intrahall-cricket"
+                },
+                {
+                    "src": "../assets/gallery25/Intra-Hall Cricket/IMG_5337.JPG",
+                    "alt": "intrahall-cricket"
+                },
+                {
+                    "src": "../assets/gallery25/Intra-Hall Cricket/IMG_5343.JPG",
+                    "alt": "intrahall-cricket"
+                },
+                {
+                    "src": "../assets/gallery25/Intra-Hall Cricket/IMG_5354.JPG",
+                    "alt": "intrahall-cricket"
+                },
+                {
+                    "src": "../assets/gallery25/Intra-Hall Cricket/IMG_20240929_153145.JPG",
+                    "alt": "intrahall-cricket"
+                },
+                {
+                    "src": "../assets/gallery25/Intra-Hall Cricket/IMG_20240928_110738.JPG",
+                    "alt": "intrahall-cricket"
+                },
+                {
+                    "src": "../assets/gallery25/Intra-Hall Cricket/IMG_20240928_100029.JPG",
+                    "alt": "intrahall-cricket"
+                }
+            ]
+        },
+        "janmashtami":{
+            "title": "Janmashtami",
+            "data": [
+                {
+                    "src": "../assets/gallery25/Janmashtami/1.JPG",
+                    "alt": "janmashtami-celebrations"
+                },
+                {
+                    "src": "../assets/gallery25/Janmashtami/2.JPG",
+                    "alt": "janmashtami-celebrations"
+                },
+                {
+                    "src": "../assets/gallery25/Janmashtami/3.JPG",
+                    "alt": "janmashtami-celebrations"
+                },
+                {
+                    "src": "../assets/gallery25/Janmashtami/4.JPG",
+                    "alt": "janmashtami-celebrations"
+                },
+                {
+                    "src": "../assets/gallery25/Janmashtami/5.JPG",
+                    "alt": "janmashtami-celebrations"
+                },
+                {
+                    "src": "../assets/gallery25/Janmashtami/6.JPG",
+                    "alt": "janmashtami-celebrations"
+                },
+                {
+                    "src": "../assets/gallery25/Janmashtami/7.JPG",
+                    "alt": "janmashtami-celebrations"
                 }
             ]
         }
