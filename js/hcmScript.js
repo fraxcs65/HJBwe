@@ -23,32 +23,32 @@ function updateHcms() {
 }
 
 function get_HCMs(year) {
-    // filter the all_hcms, so as to get only HCM of year = year.
-    let year_hcm = all_hcms.filter(hcm => {
-        if (hcm.year === year) {
-            return hcm;
-        }
-    })
-    const template = []
-    let card = ``;
-    for (let i = 0; i < year_hcm.length; i++) {
-        card = `<div class="single-team">
-        <div class="img-area">
-          <img
-          src=${year_hcm[i].imgSrc}
-          class="img-responsive"
-          alt=""
-          />
-          <div class="social centre-bs">
-            <ul class="list-inline">
-              <li style="${year_hcm[i].f_link === '#'?'cursor:not-allowed;':''}">
-              <a style="${year_hcm[i].f_link === '#'?'visibility:hidden;':''}" href=${year_hcm[i].f_link} rel="noopener" target="${year_hcm[i].f_link !== '#'?"_blank":""}" aria-label="${year_hcm[i].f_link !== '#'?"link to facebook profile":""}"><i class="fa-brands fa-facebook-f"></i></a>
-            </li style="${year_hcm[i].email_link === '#'?'cursor:not-allowed;':''}">
-            <li>
-              <a style="${year_hcm[i].email_link === '#'?'visibility:hidden;':''}" href=${year_hcm[i].email_link} rel="noopener" target="${year_hcm[i].email_link !== '#'?"_blank":""}" aria-label="${year_hcm[i].email_link !== '#'?"email link":""}"><i class="fa fa-envelope"></i></a>
+  // filter the all_hcms, so as to get only HCM of year = year.
+  let year_hcm = all_hcms.filter(hcm => {
+      if (hcm.year === year) {
+          return hcm;
+      }
+  });
+  const template = [];
+  let card = ``;
+  for (let i = 0; i < year_hcm.length; i++) {
+      card = `<div class="single-team">
+      <div class="img-area">
+        <img
+        src=${year_hcm[i].imgSrc}
+        class="img-responsive"
+        alt=""
+        />
+        <div class="social centre-bs">
+          <ul class="list-inline">
+            <li style="${!year_hcm[i].f_link || year_hcm[i].f_link === '#' ? 'display:none;' : ''}">
+              <a style="${!year_hcm[i].f_link || year_hcm[i].f_link === '#' ? 'visibility:hidden;' : ''}" href=${year_hcm[i].f_link} rel="noopener" target="${year_hcm[i].f_link ? '_blank' : ''}" aria-label="${year_hcm[i].f_link ? 'link to facebook profile' : ''}"><i class="fa-brands fa-facebook-f"></i></a>
             </li>
-            <li style="${year_hcm[i].in_link === '#'?'cursor:not-allowed;':''}">
-              <a style="${year_hcm[i].in_link === '#'?'visibility:hidden;':''}" href=${year_hcm[i].in_link} rel="noopener" target="${year_hcm[i].in_link !== '#'?"_blank":""}" aria-label="${year_hcm[i].in_link !== '#'?"link to linked-in profile":""}"><i class="fa-brands fa-linkedin-in"></i></a>
+            <li style="${!year_hcm[i].email_link || year_hcm[i].email_link === '#' ? 'display:none;' : ''}">
+              <a style="${!year_hcm[i].email_link || year_hcm[i].email_link === '#' ? 'visibility:hidden;' : ''}" href=${year_hcm[i].email_link} rel="noopener" target="${year_hcm[i].email_link ? '_blank' : ''}" aria-label="${year_hcm[i].email_link ? 'email link' : ''}"><i class="fa fa-envelope"></i></a>
+            </li>
+            <li style="${!year_hcm[i].in_link || year_hcm[i].in_link === '#' ? 'display:none;' : ''}">
+              <a style="${!year_hcm[i].in_link || year_hcm[i].in_link === '#' ? 'visibility:hidden;' : ''}" href=${year_hcm[i].in_link} rel="noopener" target="${year_hcm[i].in_link ? '_blank' : ''}" aria-label="${year_hcm[i].in_link ? 'link to linked-in profile' : ''}"><i class="fa-brands fa-linkedin-in"></i></a>
             </li>
           </ul>
         </div>
@@ -60,8 +60,9 @@ function get_HCMs(year) {
         </div>
       </div>
     </div>`;
-        template.push(card);
-    }
-    const completeTemplate = template.join('');
-    return completeTemplate
+      template.push(card);
+  }
+  const completeTemplate = template.join('');
+  return completeTemplate;
 }
+
